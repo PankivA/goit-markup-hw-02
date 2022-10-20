@@ -74,7 +74,7 @@ body {
   color: var(--primary-text-color);
 }
 
-.nav-list .link-current{
+.nav-list .link-current {
   color: var(--accent-color);
 }
 
@@ -107,7 +107,7 @@ body {
 .footer address {
   font-style: inherit;
   font-size: 14px;
-line-height: 1.71;
+  line-height: 1.71;
 }
 
 /* Hero */
