@@ -1,0 +1,11 @@
+.team-name {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    text-align: center;
+}
+
+.team-role {
+    color: #434455;
+    text-align: center;
+}

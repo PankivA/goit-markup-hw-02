@@ -1,0 +1,27 @@
+.logo {
+    text-transform: uppercase;
+    font-family: "Raleway", sens-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.334;
+}
+
+.logo-accent {
+    color: #4D5AE5;
+}
+
+.menu-link {
+    font-weight: 500;
+}
+
+.menu-link:hover, .menu-link:focus {
+    color: #404BBF;
+}
+
+.contacts-link {
+    color: #434455;
+}
+
+.contacts-link:hover, .contacts-link:focus {
+    color: #404BBF;
+}
